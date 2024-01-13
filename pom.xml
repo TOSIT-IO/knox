@@ -443,6 +443,7 @@
                 <configuration>
                     <excludeSubProjects>false</excludeSubProjects>
                     <excludes>
+                        <exclude>tdp/**</exclude>
                         <exclude>.git/**</exclude>
                         <exclude>.pc/**</exclude>
                         <exclude>debian/**</exclude>
