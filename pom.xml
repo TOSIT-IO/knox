@@ -292,6 +292,11 @@
             <name>jcenter</name>
             <url>https://jcenter.bintray.com</url>
         </repository>
+        <repository>
+            <id>jetbrains</id>
+            <name>jetbrains</name>
+            <url>https://packages.jetbrains.team/maven/p/ij/intellij-dependencies</url>
+        </repository>
     </repositories>
     <profiles>
         <profile>
